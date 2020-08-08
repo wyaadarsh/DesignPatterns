@@ -1,0 +1,2 @@
+pyparsing==2.4.7
+state-machine==0.2.10
